@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+	int n,m;
+	scanf("%d%d",&n,&m);
+	printf(n,m);
+}
+void display(int n,int m)
+{
+	if(start>end)
+	return;
+	else
+	printf("%d\n",start);
+	printf(start+1,end);
+}
